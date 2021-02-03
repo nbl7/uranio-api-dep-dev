@@ -20,6 +20,8 @@
 	"homepage": "https://bitbucket.org/nbl7/urn-web-dep-dev#readme",
 	"devDependencies": {},
 	"dependencies": {
+		"@types/cors": "^2.8.9",
+		"@types/express": "^4.17.11",
 		"urn-core-dep-dev": "git+ssh://git@bitbucket.org/nbl7/urn-core-dep-dev.git"
 	}
 }
