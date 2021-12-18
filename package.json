@@ -1,7 +1,7 @@
 {
-	"name": "urn-web-dep-dev",
+	"name": "urn-api-dep-dev",
 	"version": "0.0.1",
-	"description": "Uranio web development dependecies",
+	"description": "Uranio api development dependecies",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
 	"scripts": {
@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+ssh://git@bitbucket.org/nbl7/urn-web-dep-dev.git"
+		"url": "git+ssh://git@bitbucket.org/nbl7/urn-api-dep-dev.git"
 	},
 	"keywords": [
 		"uranio",
@@ -17,7 +17,7 @@
 	],
 	"author": "Andrea Reni <mail@nbl7.net>",
 	"license": "ISC",
-	"homepage": "https://bitbucket.org/nbl7/urn-web-dep-dev#readme",
+	"homepage": "https://bitbucket.org/nbl7/urn-api-dep-dev#readme",
 	"devDependencies": {},
 	"dependencies": {
 		"@types/cors": "^2.8.9",
